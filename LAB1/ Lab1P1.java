@@ -53,11 +53,11 @@ class Lab1P1{
 		System.out.println("--------------------------Boolean");
 		boolean bl = true;
 		Boolean blbl= bl; //Autoboxing
-		System.out.println(blbl.MAX_VALUE);
-		System.out.println(blbl.MIN_VALUE);
-		System.out.println(blbl.SIZE);
+		//System.out.println(blbl.MAX_VALUE);
+		//System.out.println(blbl.MIN_VALUE);
+		//System.out.println(blbl.SIZE);
 		System.out.println(blbl.TYPE);
-		System.out.println(blbl.BYTES);
+		//System.out.println(blbl.BYTES);
 		
 		
 		
