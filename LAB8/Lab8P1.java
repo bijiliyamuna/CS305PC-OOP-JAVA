@@ -10,7 +10,7 @@ class Lab8P1 extends Frame implements ActionListener{
 		l.setFont(new Font("Arial",Font.BOLD,40));
 		l.setAlignment(l.CENTER);
 		add(l,bl.CENTER);
-		JMenuBar mb = new JMenuBar();
+		MenuBar mb = new MenuBar();
 		setMenuBar(mb); 
 		String [] menus = {"File","Edit","Help"};
 		String [][] mi = {{"Open","Save","Close"},{"Cut","Copy","Paste"},		{"About","Update","License"}};
